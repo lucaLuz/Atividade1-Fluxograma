@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-11-27T21:07:10.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="BY-ESM8zF0cSDqX6ndsa" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-27T21:46:35.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="2zivFo8gyNDlDhSaXmBG" version="15.8.6" type="github">
   <diagram id="R9-mJYSYJDVa7Y9P95sf" name="Página-1">
-    <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
+    <mxGraphModel dx="1296" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JEEirIQ_9lJeCIRi0icI-9" value="" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=11;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;curved=1;" edge="1" parent="1" source="JEEirIQ_9lJeCIRi0icI-1" target="JEEirIQ_9lJeCIRi0icI-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JEEirIQ_9lJeCIRi0icI-1" value="&lt;h1 style=&quot;line-height: 1.2&quot;&gt;Inicio do cadastro&lt;/h1&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#FFCC99;fontFamily=Times New Roman;rounded=1;" vertex="1" parent="1">
+        <mxCell id="JEEirIQ_9lJeCIRi0icI-1" value="&lt;h1 style=&quot;line-height: 1.2&quot;&gt;Inicio do Cadastro&lt;/h1&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#FFCC99;fontFamily=Times New Roman;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="JEEirIQ_9lJeCIRi0icI-14" value="" style="edgeStyle=orthogonalEdgeStyle;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=16;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;curved=1;" edge="1" parent="1" source="JEEirIQ_9lJeCIRi0icI-8" target="JEEirIQ_9lJeCIRi0icI-13">
@@ -48,7 +48,7 @@
         <mxCell id="JEEirIQ_9lJeCIRi0icI-50" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;fontSize=14;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="JEEirIQ_9lJeCIRi0icI-37" target="JEEirIQ_9lJeCIRi0icI-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JEEirIQ_9lJeCIRi0icI-37" value="&lt;h4 style=&quot;font-size: 14px&quot;&gt;evento não autorizado para menores de 18 anos!&lt;/h4&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=16;fontColor=#393C56;strokeColor=#E07A5F;strokeWidth=1;fillColor=#FFCC99;sketch=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="JEEirIQ_9lJeCIRi0icI-37" value="&lt;h4 style=&quot;font-size: 14px&quot;&gt;Evento não autorizado para menores de 18 anos!&lt;/h4&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=16;fontColor=#393C56;strokeColor=#E07A5F;strokeWidth=1;fillColor=#FFCC99;sketch=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="23.75" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JEEirIQ_9lJeCIRi0icI-39" value="&lt;h1&gt;Fim&lt;/h1&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fontColor=#393C56;strokeColor=#E07A5F;strokeWidth=1;fillColor=#FFCC99;sketch=1;rounded=1;" vertex="1" parent="1">
@@ -63,6 +63,9 @@
         <mxCell id="JEEirIQ_9lJeCIRi0icI-44" value="&lt;h3&gt;Informe a data do evento:&lt;/h3&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fontFamily=Times New Roman;fontSize=16;fontColor=#393C56;strokeColor=#E07A5F;strokeWidth=1;fillColor=#FFCC99;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="665" y="270" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="JEEirIQ_9lJeCIRi0icI-52" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="JEEirIQ_9lJeCIRi0icI-46" target="JEEirIQ_9lJeCIRi0icI-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JEEirIQ_9lJeCIRi0icI-46" value="&lt;h3&gt;ler data do evento&lt;/h3&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fontFamily=Times New Roman;fontSize=16;fontColor=#393C56;strokeColor=#E07A5F;strokeWidth=1;fillColor=#FFCC99;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="280" width="120" height="60" as="geometry" />
         </mxCell>
@@ -74,6 +77,60 @@
             <mxPoint x="1160" y="65" as="sourcePoint" />
             <mxPoint x="525" y="-140" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JEEirIQ_9lJeCIRi0icI-54" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="JEEirIQ_9lJeCIRi0icI-51" target="JEEirIQ_9lJeCIRi0icI-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JEEirIQ_9lJeCIRi0icI-51" value="&lt;h3&gt;informe a data atual:&lt;/h3&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fontFamily=Times New Roman;fontSize=16;fontColor=#393C56;strokeColor=#E07A5F;strokeWidth=1;fillColor=#FFCC99;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JEEirIQ_9lJeCIRi0icI-60" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=16;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="JEEirIQ_9lJeCIRi0icI-53" target="JEEirIQ_9lJeCIRi0icI-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JEEirIQ_9lJeCIRi0icI-53" value="&lt;h1&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;ler data atual&lt;/font&gt;&lt;/h1&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fontFamily=Times New Roman;fontSize=16;fontColor=#393C56;strokeColor=#E07A5F;strokeWidth=1;fillColor=#FFCC99;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JEEirIQ_9lJeCIRi0icI-66" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=16;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="JEEirIQ_9lJeCIRi0icI-59" target="JEEirIQ_9lJeCIRi0icI-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JEEirIQ_9lJeCIRi0icI-59" value="calcular diferença das datas atual e data do evento" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=16;fontColor=#393C56;strokeColor=#E07A5F;strokeWidth=1;fillColor=#FFCC99;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JEEirIQ_9lJeCIRi0icI-70" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=16;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="JEEirIQ_9lJeCIRi0icI-65" target="JEEirIQ_9lJeCIRi0icI-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JEEirIQ_9lJeCIRi0icI-65" value="data e posterior a data atual ?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=16;fontColor=#393C56;strokeColor=#E07A5F;strokeWidth=1;fillColor=#FFCC99;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="550" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JEEirIQ_9lJeCIRi0icI-72" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=16;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="JEEirIQ_9lJeCIRi0icI-69" target="JEEirIQ_9lJeCIRi0icI-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JEEirIQ_9lJeCIRi0icI-69" value="não" style="shape=waypoint;sketch=1;size=6;pointerEvents=1;points=[];fillColor=#FFCC99;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;fontFamily=Times New Roman;fontSize=16;fontColor=#393C56;strokeColor=#E07A5F;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="700" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JEEirIQ_9lJeCIRi0icI-74" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=15;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="JEEirIQ_9lJeCIRi0icI-71" target="JEEirIQ_9lJeCIRi0icI-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JEEirIQ_9lJeCIRi0icI-71" value="&lt;h4&gt;Este evento ja aconteceu !&lt;/h4&gt;&lt;h4&gt;Selecione outra data de evento.&lt;/h4&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fontFamily=Times New Roman;fontSize=16;fontColor=#393C56;strokeColor=#E07A5F;strokeWidth=1;fillColor=#FFCC99;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="790" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JEEirIQ_9lJeCIRi0icI-78" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=15;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="JEEirIQ_9lJeCIRi0icI-73" target="JEEirIQ_9lJeCIRi0icI-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JEEirIQ_9lJeCIRi0icI-73" value="&lt;p&gt;Deseja voltar para &quot;Informe a data do evento&quot;?&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontFamily=Times New Roman;fontSize=16;fontColor=#393C56;strokeColor=#E07A5F;strokeWidth=1;fillColor=#FFCC99;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="760" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JEEirIQ_9lJeCIRi0icI-82" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=15;fontColor=#393C56;strokeColor=#E07A5F;fillColor=#F2CC8F;" edge="1" parent="1" source="JEEirIQ_9lJeCIRi0icI-77" target="JEEirIQ_9lJeCIRi0icI-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JEEirIQ_9lJeCIRi0icI-77" value="sim" style="shape=waypoint;sketch=1;size=6;pointerEvents=1;points=[];fillColor=#FFCC99;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;fontFamily=Times New Roman;fontSize=16;fontColor=#393C56;strokeColor=#E07A5F;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="590" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JEEirIQ_9lJeCIRi0icI-79" value="" style="shape=waypoint;sketch=1;size=6;pointerEvents=1;points=[];fillColor=#FFCC99;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;fontFamily=Times New Roman;fontSize=16;fontColor=#393C56;strokeColor=#E07A5F;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="310" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JEEirIQ_9lJeCIRi0icI-81" value="" style="shape=waypoint;sketch=1;size=6;pointerEvents=1;points=[];fillColor=#FFCC99;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;fontFamily=Times New Roman;fontSize=16;fontColor=#393C56;strokeColor=#E07A5F;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="330" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
